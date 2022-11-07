@@ -3,8 +3,8 @@
 MITMf installation script for Kali by Savary Tech. 
 
 Tested on:
-*Kali 2022.2
-*Kali 2022.3
+* Kali 2022.2
+* Kali 2022.3
 
 There are two scripts:<br>
 -One is for the first time you install MITMf, and the other is for continual use of the program. Always run the second script from inside the MITMf folder that is already there.
