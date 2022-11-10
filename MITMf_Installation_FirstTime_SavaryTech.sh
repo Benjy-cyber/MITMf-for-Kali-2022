@@ -37,3 +37,5 @@ pip install pyasn1
 pip install requests
 pip install msgpack-python
 pip install twisted
+
+#python2.7 mitmf.py -v
